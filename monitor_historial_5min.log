@@ -1,0 +1,14 @@
+[2026-09-04 04:46:03] Aviso: Binance funding rate no disponible (451 Client Error:  for url: https://fapi.binance.com/fapi/v1/fundingRate?symbol=BTCUSDT&limit=200). Probando Bybit...
+[2026-09-04 04:46:03] Aviso: Bybit funding rate tampoco disponible (403 Client Error: Forbidden for url: https://api.bybit.com/v5/market/funding/history?category=linear&symbol=BTCUSDT&limit=200). Se omite ese filtro esta vez.
+[2026-09-04 04:46:03] ⚠️ SEÑAL PROVISIONAL (vela de 15m en formación)
+[2026-09-04 04:46:03] AVISO PROVISIONAL — la vela de 15m todavía se está formando y la señal puede deshacerse antes del cierre. Úsalo para prepararte, no para entrar en firme todavía. Si al cerrar la vela se mantiene, recibirás un segundo email de CONFIRMACIÓN.
+
+Zona de acumulación: 69361.53 - 69687.36
+Precio de ENTRADA sugerido: 69807.08
+TAKE PROFIT (TP): 70252.63  (+0.64% desde entrada)
+STOP LOSS (SL): 69361.53  (-0.64% desde entrada)
+RSI(14): 51.6
+
+Recuerda: esto es un aviso, no una orden automática. Revisa antes de operar.
+Resultados validados en bruto (sin comisiones reales aplicadas).
+[2026-09-04 04:46:04] [ERROR] No se pudo enviar el email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor d75a77b69052e-53054226b8bsm12353721cf.30 - gsmtp')
