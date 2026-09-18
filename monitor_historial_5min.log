@@ -126,3 +126,17 @@ Resultados validados en bruto (sin comisiones reales aplicadas).
 [2026-09-18 00:02:50] En acumulación (66528.12-66779.13, rango 0.38%). Sin ruptura aún.
 [2026-09-18 04:35:45] Sin patrón relevante en este momento.
 [2026-09-18 09:11:55] Sin patrón relevante en este momento.
+[2026-09-18 13:38:12] Aviso: Binance funding rate no disponible (451 Client Error:  for url: https://fapi.binance.com/fapi/v1/fundingRate?symbol=BTCUSDT&limit=200). Probando Bybit...
+[2026-09-18 13:38:12] Aviso: Bybit funding rate tampoco disponible (403 Client Error: Forbidden for url: https://api.bybit.com/v5/market/funding/history?category=linear&symbol=BTCUSDT&limit=200). Se omite ese filtro esta vez.
+[2026-09-18 13:38:12] ⚠️ SEÑAL PROVISIONAL (vela de 15m en formación)
+[2026-09-18 13:38:12] AVISO PROVISIONAL — la vela de 15m todavía se está formando y la señal puede deshacerse antes del cierre. Úsalo para prepararte, no para entrar en firme todavía. Si al cerrar la vela se mantiene, recibirás un segundo email de CONFIRMACIÓN.
+
+Zona de acumulación: 67978.73 - 68292.62
+Precio de ENTRADA sugerido: 68409.94
+TAKE PROFIT (TP): 68841.15  (+0.63% desde entrada)
+STOP LOSS (SL): 67978.73  (-0.63% desde entrada)
+RSI(14): 73.8
+
+Recuerda: esto es un aviso, no una orden automática. Revisa antes de operar.
+Resultados validados en bruto (sin comisiones reales aplicadas).
+[2026-09-18 13:38:12] [ERROR] No se pudo enviar el email: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 006d021491bc7-6cb0c2024e4sm1285029eaf.5 - gsmtp')
