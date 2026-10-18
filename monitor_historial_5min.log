@@ -309,3 +309,4 @@ Resultados validados en bruto (sin comisiones reales aplicadas).
 [2026-10-18 09:50:46] Aviso: Bybit funding rate tampoco disponible (403 Client Error: Forbidden for url: https://api.bybit.com/v5/market/funding/history?category=linear&symbol=BTCUSDT&limit=200). Se omite ese filtro esta vez.
 [2026-10-18 09:50:46] Ruptura detectada pero el precio (73124.96) ya está 0.40% por encima de la entrada teórica (72832.91). Se descarta, no se avisa.
 [2026-10-18 13:40:28] Sin patrón relevante en este momento.
+[2026-10-18 16:57:01] En acumulación (72048.91-72272.73, rango 0.31%). Sin ruptura aún.
