@@ -379,3 +379,16 @@ Resultados validados en bruto (sin comisiones reales aplicadas).
 [2026-10-26 21:32:48] En acumulación (71300.04-71529.53, rango 0.32%). Sin ruptura aún.
 [2026-10-27 00:46:37] En acumulación (71406.44-71801.35, rango 0.55%). Sin ruptura aún.
 [2026-10-27 05:43:26] En acumulación (71168.43-71417.57, rango 0.35%). Sin ruptura aún.
+[2026-10-27 11:04:23] ⚠️ SEÑAL PROVISIONAL (vela de 15m en formación)
+[2026-10-27 11:04:23] AVISO PROVISIONAL — la vela de 15m todavía se está formando y la señal puede deshacerse antes del cierre. Úsalo para prepararte, no para entrar en firme todavía. Si al cerrar la vela se mantiene, recibirás un segundo email de CONFIRMACIÓN.
+
+Zona de acumulación: 71239.12 - 71532.44
+Precio de ENTRADA sugerido: 71655.33
+TAKE PROFIT (TP): 72071.54  (+0.58% desde entrada)
+STOP LOSS (SL): 71239.12  (-0.58% desde entrada)
+RSI(14): 64.3
+Funding rate: percentil 80% (Binance)
+
+Recuerda: esto es un aviso, no una orden automática. Revisa antes de operar.
+Resultados validados en bruto (sin comisiones reales aplicadas).
+[2026-10-27 11:04:24] [ERROR] No se pudo enviar el email: Connection unexpectedly closed
