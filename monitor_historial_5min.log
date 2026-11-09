@@ -464,3 +464,17 @@ Resultados validados en bruto (sin comisiones reales aplicadas).
 [2026-11-08 23:52:30] Sin patrón relevante en este momento.
 [2026-11-09 04:18:04] Sin patrón relevante en este momento.
 [2026-11-09 13:05:16] Sin patrón relevante en este momento.
+[2026-11-09 22:57:59] Aviso: Binance funding rate no disponible (451 Client Error:  for url: https://fapi.binance.com/fapi/v1/fundingRate?symbol=BTCUSDT&limit=200). Probando Bybit...
+[2026-11-09 22:58:00] Aviso: Bybit funding rate tampoco disponible (403 Client Error: Forbidden for url: https://api.bybit.com/v5/market/funding/history?category=linear&symbol=BTCUSDT&limit=200). Se omite ese filtro esta vez.
+[2026-11-09 22:58:00] 🔔 SEÑAL DE ENTRADA CONFIRMADA
+[2026-11-09 22:58:00] SEÑAL CONFIRMADA (la vela de 15m ha cerrado cumpliendo las condiciones).
+
+Zona de acumulación: 66489.65 - 66822.7
+Precio de ENTRADA sugerido: 66937.5
+TAKE PROFIT (TP): 67385.35  (+0.67% desde entrada)
+STOP LOSS (SL): 66489.65  (-0.67% desde entrada)
+RSI(14): 59.1
+
+Recuerda: esto es un aviso, no una orden automática. Revisa antes de operar.
+Resultados validados en bruto (sin comisiones reales aplicadas).
+[2026-11-09 22:58:00] [ERROR] No se pudo enviar el email: Connection unexpectedly closed
